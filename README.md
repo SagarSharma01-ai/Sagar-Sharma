@@ -8,7 +8,9 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sagar-sharma/)  
+## 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-sharma-712ba4324)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/calmchor.sagar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github)](https://github.com/SagarSharma01-ai)  
 
 ---
